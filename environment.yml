@@ -2,6 +2,8 @@ channels:
   - conda-forge
 dependencies:
   - r-base=4.1.3
+  - r-rcpp
+  - r-tinytex
   - r-tidyverse
   - r-knitr
   - r-tidymodels
