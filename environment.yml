@@ -4,6 +4,7 @@ dependencies:
   - r-base=4.1.3
   - r-rcpp
   - r-tinytex
+  - r-rmarkdown
   - r-tidyverse
   - r-knitr
   - r-tidymodels
